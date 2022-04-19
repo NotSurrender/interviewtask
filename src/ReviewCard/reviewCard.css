@@ -1,0 +1,17 @@
+.reviewCard {
+  padding: 20px;
+  color: white;
+}
+
+.reviewCard__text,
+.reviewCard__bottomSection {
+  margin-top: 20px;
+}
+
+.reviewCard__bottomSection {
+  display: flex;
+  justify-content: space-between;
+}
+
+.reviewCard__author {
+}

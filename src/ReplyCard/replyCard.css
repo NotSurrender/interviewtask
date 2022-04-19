@@ -1,0 +1,17 @@
+.replyCard {
+  position: relative;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.replyCard__tagList {
+  position: absolute;
+  right: 10px;
+  top: 20px;
+}
+
+.replyCard__text {
+  margin-top: 15px;
+  font-size: 14px;
+}

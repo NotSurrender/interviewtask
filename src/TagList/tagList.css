@@ -1,0 +1,4 @@
+.tagList {
+  display: flex;
+  grid-gap: 10px;
+}
